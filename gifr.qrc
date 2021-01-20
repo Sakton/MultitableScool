@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/tumblr_n0a99jDuGR1r2nvplo5_500.gif</file>
+        <file>img/tumblr_n9b9ypk2J11r2nvplo1_500.gif</file>
+        <file>img/tumblr_n9b99hFQnE1r2nvplo1_500.gif</file>
+        <file>img/tumblr_o1okt4AZAS1r2nvplo1_1280.gif</file>
+        <file>img/tumblr_static_tumblr_static__640.gif</file>
+        <file>img/tumblr_static_tumblr_static_544vcdduadgkss4k00cgg408w_640.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+enum StateResult{
+	BAD = 0,
+	GOOD,
+	UNKNOWN
+}

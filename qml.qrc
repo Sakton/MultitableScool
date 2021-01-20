@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MyStatusBar.qml</file>
+        <file>qml/MyToolBar.qml</file>
+        <file>qml/qtquickcontrols2.conf</file>
+        <file>qml/MyPrimerTableItem.qml</file>
+        <file>qml/MyButtonForTable.qml</file>
+        <file>qml/MyPrimerWindow.qml</file>
+        <file>qml/MyButtonForPrimerWindow.qml</file>
+        <file>img/Kraang_Prime_Profile_1.png</file>
+        <file>img/Queen_Utrom_Profile.png</file>
+        <file>img/2470574-kraang.png</file>
+        <file>img/Kraang_Flyers_Head_Tentacles_Profile.png</file>
+        <file>img/Kraang_Prime_Profile.png</file>
+        <file>img/Kraang_Prime_Ultimate_Kraangdroid_Without_Head_Piece_Profile.png</file>
+        <file>img/Kraang_uh_oh....png</file>
+        <file>img/Kraang11.png</file>
+        <file>img/Kraangsuperior.png</file>
+        <file>img/teenage111.jpg</file>
+        <file>img/abstract-art.png</file>
+        <file>img/swirl-160625_640.png</file>
+        <file>img/CHe1.png</file>
+        <file>img/CHe2.png</file>
+        <file>img/CHe3.png</file>
+        <file>img/CHe4.png</file>
+        <file>qml/NullWindow.qml</file>
+        <file>img/teenage-mutant-ninja-turtles.jpg</file>
+        <file>qml/MyToolbarButton.qml</file>
+        <file>qml/Polzunok.qml</file>
+        <file>qml/PopupWindow.qml</file>
+        <file>Script.js</file>
+        <file>normal.ttf</file>
+        <file>qml/MyFont.qml</file>
+        <file>qml/MyPrimerWindowForAndroid.qml</file>
+        <file>img/forAndrPopupBackground.jpg</file>
+        <file>img/1-22-640x360.jpg</file>
+    </qresource>
+</RCC>
